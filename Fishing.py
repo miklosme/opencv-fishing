@@ -268,7 +268,8 @@ while True:
     else:
         print("Could not find bail")
 
-    time.sleep(1) # between fishing
+    # between fishing
+    time.sleep(2)
 
     if not is_warcraft():
         print('WoW is not focused anymore')
