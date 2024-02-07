@@ -1,6 +1,6 @@
 # OpenCV Fishing
 
-Run the `Fishing` notebook.
+Start Jupyter with `pipenv run jupyter notebook` and open the `Fishing` notebook.
 
 The other notebooks are used to research concepts.
 
